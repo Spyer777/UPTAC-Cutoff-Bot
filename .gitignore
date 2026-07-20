@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# PyInstaller temporary and output folders
+build/
+dist/
+*.spec
+
+# Local environment configuration or data logs (optional)
+.vscode/
